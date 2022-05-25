@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: normal;
+  color: var(--white);
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  /*COLORS*/
+  --background: #2f2e41;
+  --green: #00bfa6;
+  --grey: #c2c2c2;
+  --white: #ffffff;
+}
+
+body {
+  background: var(--background);
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1083px;
+  margin: auto;
+  padding-top: 71px;
+  padding-bottom: 101px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  gap: 64px;
+  color: var(--white);
+}
+
+ul li {
+  text-decoration: none;
+  font-size: 14px;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  width: 1092px;
+  gap: 77px;
+  margin: auto;
+}
+
+main p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+h1 {
+  margin-bottom: 59px;
+  font-weight: bold;
+}
+
+span {
+  color: var(--green);
+  font-weight: bold;
+}
+
+footer {
+  width: 568px;
+  margin: auto;
+}
+
+footer .divider {
+  border: 1px solid var(--green);
+  margin-top: 157px;
+  margin-bottom: 27px;
+}
+
+footer p {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 23px;
+}
+
+#padlock {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+}
