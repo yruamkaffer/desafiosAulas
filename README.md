@@ -1,4 +1,4 @@
-# 🧠 Desafios Aulas
+# 🧠 Desafios de alguns estudos!
 
 A repository full of creative and educational challenges from various lessons and trainings.  
 Perfect for sharpening your skills in HTML, CSS, JavaScript, and more!
