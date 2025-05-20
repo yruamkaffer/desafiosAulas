@@ -84,9 +84,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 Created with 💡 by [Yruam Käffer de Faria](https://github.com/yruamkaffer)
-
----
-
-## 📝 Description
-
-A collection of small front-end challenges and exercises built during classes and lessons, using HTML, CSS, and JavaScript. A playground for experimentation and learning.
